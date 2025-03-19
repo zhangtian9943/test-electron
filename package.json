@@ -59,17 +59,14 @@
             "x64"
           ]
         }
-      ],
-      "icon": "build/icon.ico"
+      ]
     },
     "nsis": {
       "oneClick": false,
       "allowToChangeInstallationDirectory": true,
       "createDesktopShortcut": true,
       "createStartMenuShortcut": true,
-      "shortcutName": "Excel Form Filler",
-      "installerIcon": "build/icon.ico",
-      "uninstallerIcon": "build/icon.ico"
+      "shortcutName": "Excel Form Filler"
     }
   }
 }
